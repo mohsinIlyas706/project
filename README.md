@@ -1,0 +1,1 @@
+Kashmir Travel is a visually captivating and user-friendly travel website dedicated to showcasing the breathtaking beauty and cultural richness of the Kashmir region. Crafted with HTML and CSS, our frontend-only website is designed to provide an immersive experience for users who seek to explore the enchanting landscapes, vibrant traditions, and warm hospitality of Kashmir.
